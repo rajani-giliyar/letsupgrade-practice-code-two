@@ -1,0 +1,44 @@
+SELECTORS
+
+
+1--UNIVERSAL SELECTORS
+  
+      *
+      {
+
+      }
+
+
+2--ELEMENT SELECTORS(TAGS)
+
+      h1                  
+      {
+        
+      }
+      
+
+      body
+      {
+
+      }
+
+      button
+      {
+
+      }
+
+3--CLASS SELECTORS
+
+      .
+      {
+
+      }
+
+4--ID SELECTORS
+
+     #
+     {
+           
+     }
+
+    
